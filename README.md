@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.gif" width="100%" alt="Data Analyst Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Umarfarukh Inamdar</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | ML Enthusiast</h3>
