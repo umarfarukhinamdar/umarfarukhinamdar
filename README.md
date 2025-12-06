@@ -57,21 +57,21 @@ I enjoy solving real-world business problems using data-driven approaches.
 ### 🔹 **📉 Retail Sales Analytics**
 **Tools:** Python, Pandas, Power BI  
 Insights on sales trends, forecasting & customer behavior.  
-👉 *[View Project]([https://github.com/your-username/your-repo](https://github.com/umarfarukhinamdar/retail_sales_performance_dashboard_-_insights.git))*
+👉 *[View Project](https://github.com/umarfarukhinamdar/retail_sales_performance_dashboard_-_insights.git))*
 
 ---
 
 ### 🔹 **📊 IT Helpdesk Ticket Analytics**
 **Tools:** Python, Power BI  
 Improved support process efficiency using data-driven analysis.  
-👉 *[View Project]([https://github.com/your-username/your-repo](https://github.com/umarfarukhinamdar/IT_Helpdesk_Ticket_Analytics_Dashboard.git))*
+👉 *[View Project](https://github.com/umarfarukhinamdar/IT_Helpdesk_Ticket_Analytics_Dashboard.git))*
 
 ---
 
 ### 🔹 **📡 Telecom Customer Churn Prediction**
 **Tools:** Python, ML, SMOTE, Scikit-Learn  
 Built ML model to predict customer churn & identify key drivers.  
-👉 *[View Project]([https://github.com/your-username/your-repo](https://github.com/umarfarukhinamdar/customer_churn_prediction.git))*
+👉 *[View Project](https://github.com/umarfarukhinamdar/customer_churn_prediction.git))*
 
 ---
 
